@@ -1,0 +1,59 @@
+html {
+    font-size: 62.5%
+}
+
+body {
+    font-family: Helvetica Neue,Helvetica,Arial,Microsoft Yahei,SimSun,sans-serif;
+    color: #333;
+    font-size: 12px;
+    min-width: 320px
+}
+
+ol,ul {
+    list-style: none
+}
+
+em,i,tt,var {
+    font-style: normal
+}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary {
+    display: block
+}
+
+article,aside,body,button,dd,details,dl,dt,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,input,li,main,menu,nav,ol,p,section,summary,textarea,ul {
+    margin: 0;
+    padding: 0
+}
+
+img {
+    display: block;
+    border: 0
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 400
+}
+
+img,input {
+    vertical-align: middle
+}
+
+a:link,a:visited {
+    text-decoration: none
+}
+
+a,button,div,input,li,section,span {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    tap-highlight-color: transparent
+}
+
+input,textarea {
+    -webkit-appearance: none;
+    outline: 0
+}
+
+button {
+    border: 0;
+    outline: none
+}
